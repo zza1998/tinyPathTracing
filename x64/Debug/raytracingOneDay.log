@@ -1,5 +1,0 @@
-﻿  main.cpp
-D:\WorkSpace\cpp\raytracingOneDay\camera.h(18,32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-  vec3.h
-  正在生成代码...
-  raytracingOneDay.vcxproj -> D:\WorkSpace\cpp\raytracingOneDay\x64\Debug\raytracingOneDay.exe
